@@ -31,7 +31,5 @@ public class Main {
         }
         double avg = threeSum/count;
         System.out.println(sum+" "+avg);
-        
-        
     }
 }
