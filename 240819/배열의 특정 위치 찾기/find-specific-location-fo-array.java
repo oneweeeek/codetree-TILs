@@ -29,7 +29,7 @@ public class Main {
         	}
         	
         }
-        double avg = threeSum/count;
-        System.out.println(sum+" "+avg);
+        double avg = (double)threeSum/count;
+        System.out.printf("%d %.1f%n", sum, avg);
     }
 }
