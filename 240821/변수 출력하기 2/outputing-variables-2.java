@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         int a = 3, b = 'C';
-        System.out.printf("%d!.....!%c",b,a);
+        System.out.printf("%c!.....!%d",b,a);
     }
 }
